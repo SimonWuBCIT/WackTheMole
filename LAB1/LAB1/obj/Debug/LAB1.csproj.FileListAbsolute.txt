@@ -1,0 +1,12 @@
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\bin\Debug\LAB1.exe
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\bin\Debug\LAB1.pdb
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.csprojResolveAssemblyReference.cache
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.Form1.resources
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.Properties.Resources.resources
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.csproj.GenerateResource.Cache
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.exe
+C:\Users\Jennifer\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.pdb
+C:\Users\Simon Wu\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\Simon Wu\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.exe
+C:\Users\Simon Wu\Box Sync\UBC\Courses\MECH 423\Lab\Lab 1\Lab 1 Simon\LAB1\LAB1\obj\Debug\LAB1.pdb
